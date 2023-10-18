@@ -10,7 +10,7 @@
 
 ## Relacion uno a mucho
 
-![relacion](relacion.png)
+![Relacion](Relacion.png)
 
 # consultas BD_zapateria
 ### consulta No.1
